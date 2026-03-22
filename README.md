@@ -1,6 +1,6 @@
 # Engineering Student | Control Systems & Aerospace
 
-# About Me:
+## About Me:
 Engineering student focused on control systems, embedded systems, and autonomous aerospace platforms.  <br>Currently building APEX, a CubeSat-inspired control and avionics system designed to simulate real spacecraft architectures.  <br>Interested in avionics, flight control, and autonomous systems.
 
 
@@ -14,7 +14,7 @@ Engineering student focused on control systems, embedded systems, and autonomous
 ![](https://nirzak-streak-stats.vercel.app/?user=tall-ali&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tall-ali&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
